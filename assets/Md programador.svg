@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="16" viewBox="0 0 96 16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 168px;
+      }
+
+      .cls-1 {
+        fill: #6610f2;
+        font-family: Gotham;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: "Gotham Black";
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="{]" class="cls-1" transform="translate(14.551 12.62) scale(0.095)">{]</text>
+  <text id="CODE" class="cls-2" transform="translate(39.886 14.247) scale(0.109)">CODE</text>
+  <text id="M" class="cls-2" transform="translate(-0.388 13.914) scale(0.104)">M</text>
+</svg>
