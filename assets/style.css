@@ -134,6 +134,10 @@ header .hamburguer .linha3 {
     font-weight: 300;
 }
 
+.inicio .texto span {
+    font-weigth: 200;
+}
+
 .inicio .container .imagem img:hover {
     transform: scale(1.2);
     transition: 2s ease;
